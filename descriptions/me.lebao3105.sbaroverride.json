@@ -1,0 +1,51 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Make your status bar cool to everyone;)",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": []
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "*Looks best on non-notched iDevices.*\nSBarOverride allows you to:\n\n* Change the carrier text\n\n* Change the clock text OR format\n\n* Show used battery percents instead of the remaining one\n\nMore features to come!"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Source code",
+                    "action": "https://github.com/lebao3105/sbaroverride"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.0",
+                    "useBoldText": true,
+                    "useBottomMargin": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial release"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 20
+                }
+            ]
+        }
+    ]
+}
