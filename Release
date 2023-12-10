@@ -13,3 +13,18 @@ Description: An awesome status bar tweak!
 Author: lebao3105
 Name: SBarOverride
 
+Package: me.lebao3105.sbaroverride
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: lebao3105
+Installed-Size: 344
+Filename: debs/me.lebao3105.sbaroverride_1.0.0_iphoneos-arm64.deb
+Size: 7324
+MD5sum: d6ad2ef06f2983ab65c111b489c82bc1
+SHA1: cff4b19f2a791534ce5de7d9619dd5c9c33d6bc4
+SHA256: 60d894530670b1513b61ba9a251344f795f4c82ee2ddbbf9afcd4403e4be300e
+Section: Tweaks
+Description: An awesome status bar tweak!
+Author: lebao3105
+Name: SBarOverride
+
