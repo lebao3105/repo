@@ -1,0 +1,8 @@
+Origin: lebao3105's Repository
+Label: What label?
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: No description here.
