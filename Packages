@@ -12,7 +12,7 @@ Section: Tweaks
 Description: An awesome status bar tweak!
 Author: lebao3105
 Name: SBarOverride
-SileoDepiction: https://raw.githubusercontent.com/lebao3105/repo/main/descriptions/me.lebao3105.sbaroverride.json
+Sileodepiction: https://raw.githubusercontent.com/lebao3105/repo/main/descriptions/me.lebao3105.sbaroverride.json
 
 Package: me.lebao3105.sbaroverride
 Version: 1.0.0
@@ -28,5 +28,37 @@ Section: Tweaks
 Description: An awesome status bar tweak!
 Author: lebao3105
 Name: SBarOverride
-SileoDepiction: https://raw.githubusercontent.com/lebao3105/repo/main/descriptions/me.lebao3105.sbaroverride.json
+Sileodepiction: https://raw.githubusercontent.com/lebao3105/repo/main/descriptions/me.lebao3105.sbaroverride.json
+
+Package: me.lebao3105.sbaroverride
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: lebao3105
+Installed-Size: 348
+Filename: debs/me.lebao3105.sbaroverride_1.1.0_iphoneos-arm64.deb
+Size: 7804
+MD5sum: 2f934bbbf4924ae132095f75c2c7c6a2
+SHA1: 76c401035872385804e44a85d13988675c971306
+SHA256: b43546f1cc35894f76e15613e5cc5a4d2e0cb0f7afcc49ce96e0ca7c71153c6b
+Section: Tweaks
+Description: An awesome status bar tweak!
+Author: lebao3105
+Name: SBarOverride
+Sileodepiction: https://raw.githubusercontent.com/lebao3105/repo/main/descriptions/me.lebao3105.sbaroverride.json
+
+Package: me.lebao3105.sbaroverride
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: lebao3105
+Installed-Size: 348
+Filename: debs/me.lebao3105.sbaroverride_1.1.0_iphoneos-arm.deb
+Size: 7732
+MD5sum: f30acc1613816e7e83d3159df73fe0a3
+SHA1: 5babd4906751db3e01bc9973f5935d7c1768f75e
+SHA256: 4ef35bcd207751c49c9f4c869e777e0acf9032b36edb5ace28ff7891a27329ab
+Section: Tweaks
+Description: An awesome status bar tweak!
+Author: lebao3105
+Name: SBarOverride
+Sileodepiction: https://raw.githubusercontent.com/lebao3105/repo/main/descriptions/me.lebao3105.sbaroverride.json
 
