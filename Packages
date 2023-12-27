@@ -1,24 +1,5 @@
 Package: com.ryannair05.little12
 Version: 1.0.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: Ryan Nair
-Installed-Size: 1108
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
-Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
-Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
-Filename: debs/com.ryannair05.little12_1.0.0-1+debug_iphoneos-arm.deb
-Size: 359540
-MD5sum: 2728157afbf686046d0acdfc81fb6367
-SHA1: 292145a56ef333a9685a1ad0ba784efe79d59e22
-SHA256: 55c5f864e1830f4aaadb65690f2435a9b8833bf38cbc68c276f547404b31f7e6
-Section: Tweaks
-Description: iPhone 12 gestures and more for iOS 14
-Author: Ryan Nair
-Name: Little12
-
-Package: com.ryannair05.little12
-Version: 1.0.0-1+debug
 Architecture: iphoneos-arm64
 Maintainer: Ryan Nair
 Installed-Size: 1108
