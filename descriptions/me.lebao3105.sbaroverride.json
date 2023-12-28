@@ -14,7 +14,21 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "screenshots": []
+                    "screenshots": [
+                        {
+                            "url": "https://raw.githubusercontent.com/lebao3105/repo/main/descriptions/SBO1.png",
+                            "accessibilityText": "SBarOverride is the new iOS status bar tweak"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/lebao3105/repo/main/descriptions/SBO2.png",
+                            "accessibilityText": "It has many options for the user to chose, and will be more in the future."
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/lebao3105/repo/main/descriptions/SBO3.png",
+                            "accessibilityText": ""
+                        }
+                    ],
+                    "itemCornerRadius": 0.0
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -31,6 +45,20 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Settings UI modifiy"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 20
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.0",
