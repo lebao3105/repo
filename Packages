@@ -1,17 +1,36 @@
 Package: com.ryannair05.little12
 Version: 1.0.0-1+debug
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: Ryan Nair
-Installed-Size: 1108
+Installed-Size: 1104
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
 Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
-Filename: debs/com.ryannair05.little12_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 359570
-MD5sum: 9c04a3387b30aa23a66416ddac44e653
-SHA1: 043deaf130b21fe2c7c2551a51e48ffd92f1e1e9
-SHA256: d709ecb606e05fc291d22347705e0763c5f37a595f8f2587f7bdb160f93600d8
+Filename: debs/com.ryannair05.little12_1.0.0-1+debug_iphoneos-arm.deb
+Size: 359656
+MD5sum: 9f6506de8a44898e7fd64609a348eff9
+SHA1: f44486fa84d3cb8c1b4ac232d49fce3a6fd74edc
+SHA256: 02f5c951c2505e1b825864fee4a13150200a3029300b2530bd74250e23c47a78
+Section: Tweaks
+Description: iPhone 12 gestures and more for iOS 14
+Author: Ryan Nair
+Name: Little12
+
+Package: com.ryannair05.little12
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair
+Installed-Size: 1104
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Filename: debs/com.ryannair05.little12_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 359554
+MD5sum: 224e58c1f21ac0a5b9343fa659ed98c9
+SHA1: d4cbd56c1d09bfd5df7860c3eee68fac0b6e6189
+SHA256: bd49814ac3f131f4d33c80c3b4ea799daed345242057a69822a92dad8a5aa8c5
 Section: Tweaks
 Description: iPhone 12 gestures and more for iOS 14
 Author: Ryan Nair
