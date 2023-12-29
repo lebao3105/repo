@@ -28,7 +28,8 @@
                             "accessibilityText": ""
                         }
                     ],
-                    "itemCornerRadius": 0.0
+                    "itemCornerRadius": 0.0,
+                    "itemSize": "{160, 346}"
                 },
                 {
                     "class": "DepictionMarkdownView",
