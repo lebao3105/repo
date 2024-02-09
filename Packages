@@ -100,3 +100,51 @@ Author: lebao3105
 Name: SBarOverride
 Sileodepiction: https://raw.githubusercontent.com/lebao3105/repo/main/descriptions/me.lebao3105.sbaroverride.json
 
+Package: org.speedyfriend67.swifile
+Version: 1.0-14+debug
+Architecture: iphoneos-arm64
+Maintainer: Le Bao Nguyen <bao12345yocoo@gmail.com>
+Installed-Size: 1852
+Depends: firmware (>= 15.0)
+Filename: debs/org.speedyfriend67.swifile_1.0-14+debug_iphoneos-arm64.deb
+Size: 294912
+MD5sum: e8a79bf0f3ce0ed3e43ecbaf9714a688
+SHA1: 112bf88fa1152eeb5b900376b32cc386fc0366f2
+SHA256: 4438f0b3ac4b1e6ac8f3c98582bd88b9466ca50a921abac72f0739d52a853efc
+Section: Utilities
+Description: A new file manager made with SwiftUI!
+Author: SpeedyFriend67
+Name: Swifile
+
+Package: org.speedyfriend67.swifile
+Version: 1.0-15+debug
+Architecture: iphoneos-arm64e
+Maintainer: Le Bao Nguyen <bao12345yocoo@gmail.com>
+Installed-Size: 1852
+Depends: firmware (>= 15.0)
+Filename: debs/org.speedyfriend67.swifile_1.0-15+debug_iphoneos-arm64e.deb
+Size: 294878
+MD5sum: 7b2c679702b8a54cda10b72ea287cbf9
+SHA1: 6300247abedc6496318e95768dfd8cad0ff0ab2c
+SHA256: db784c005e98a7e3e96e591124d913a9987c64d977a7817cfa63b64a45556ddf
+Section: Utilities
+Description: A new file manager made with SwiftUI!
+Author: SpeedyFriend67
+Name: Swifile
+
+Package: org.speedyfriend67.swifile
+Version: 1.0-16+debug
+Architecture: iphoneos-arm
+Maintainer: Le Bao Nguyen <bao12345yocoo@gmail.com>
+Installed-Size: 1852
+Depends: firmware (>= 15.0)
+Filename: debs/org.speedyfriend67.swifile_1.0-16+debug_iphoneos-arm.deb
+Size: 294878
+MD5sum: e2cf625c89b733988c4a8b01fa89ed86
+SHA1: 2edd9bc9148e844fbff3dac0df71c6427244026c
+SHA256: 8282fe4184d29a5a3297dc16dc92135f56601cc930831a9688a16094473c4751
+Section: Utilities
+Description: A new file manager made with SwiftUI!
+Author: SpeedyFriend67
+Name: Swifile
+
